@@ -2,10 +2,6 @@
 
 This a music player website built using Html , CSS , Javascript and Jquery 
 
-## Deployment Link
-
-[ https://mmirthula02.github.io/JavaScript-MusicPlayer/  ](url)
-
 ## Functionalities 
 
 - 3 Music tracks are added
