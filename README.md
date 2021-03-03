@@ -4,7 +4,7 @@ This a music player website built using Html , CSS , Javascript and Jquery
 
 ## Deployment Link
 
-[https://mmirthula02.github.io/JavaScript-MusicPlayer/](url)
+[ https://mmirthula02.github.io/JavaScript-MusicPlayer/  ](url)
 
 ## Functionalities 
 
